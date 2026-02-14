@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2019b%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📋 Description
 
